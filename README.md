@@ -1,7 +1,7 @@
 # Aditi Patel — Marketing & Data Analyst Portfolio
 
 Welcome to my portfolio website!  
-This repository hosts my GitHub Pages site: **https://your-username.github.io**
+This repository hosts my GitHub Pages site: **https://aditipatel.github.io**
 
 I focus on transforming data into insights that support better marketing decisions, improve ROI, and optimize business performance. This site includes my projects, dashboards, and case studies related to:
 
