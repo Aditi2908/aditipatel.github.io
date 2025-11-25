@@ -8,7 +8,8 @@ I turn data into clear recommendations that increase ROI and improve campaign pe
 
 - 📍 Phoenix, AZ  
 - 📧 aditi.email@example.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aditipatel29/) • [GitHub](https://aditipatel.github.io) 
+
 
 ---
 
